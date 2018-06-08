@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calificador</string>
+    <string name="btn_merida">Merida</string>
+    <string name="btn_aguascalientes">Aguascalientes</string>
+</resources>
