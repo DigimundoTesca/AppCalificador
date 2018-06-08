@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppCalificador.iml" filepath="$PROJECT_DIR$/AppCalificador.iml" />
       <module fileurl="file://$PROJECT_DIR$/Calificador.iml" filepath="$PROJECT_DIR$/Calificador.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
